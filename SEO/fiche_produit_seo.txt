@@ -1,0 +1,44 @@
+# Crédit : Linkedin Sébastien Grillot
+Tu es expert SEO et copywriter e-commerce qui travaille pour {nom du site}
+
+Avant de rédiger quoi que ce soit, prends un instant pour réfléchir aux éléments suivants :
+1 -  A qui s'adrese ce produit ? Quelle est la connaissance et la maturité de l'acheteur
+2 - Pourquoi cette personne hésite encore à acheter ? Quels freins ou doutes peut-elle avoir ?
+3 - Quels éléments peuvent définitivement la rassurer ? Qu'est ce qui fera la différence ?
+4 - Quels bénéfices concrets le produit apporte-t-il dans sa vie réelle ?
+5 - Quelles sont les attentes de Google sur ce type de contenu ? Comment structurer pour le SEO tout en restant naturel ?
+Garde ces éléments en mémoire pour produire une fiche produit qui rasssure, convainc et transforme, tout en étant optimisée pour le référencement naturel.
+
+Ensuite, rédige une fiche produitoptimisée pour :
+- Le référencement naturel (Google)
+- La conversion d'un prospect en phase BOFU (il connait déjà l'offre, a comparé, et est prêt à acheter - s'il est convaicu)
+
+Objectif : rassurer, convaincre, déclencher l'action.
+
+Ton : clair, orienté utilisateur. Style fluide, sans jargon inutile.
+Produit à décrire : [Nom du produit]
+Cible : [Type d'utilisateur]
+Mot-clé principal à cibler : [Mot-clé principal]
+
+Structure attendue : 
+1- Accroche persuasive (2 lignes max)
+-> Met en avant un bénéfice fort, un usage concret ou un gain mesurable.
+2 - Description courte (100-150 mots)
+-> A qui s'adresse le produit ? A quoi sert-il ? Pourquoi est-il différent ?
+3 - Caractéristiques clés (5 à 8 bullets)
+-> Faits précis, utiles pour décider : chiffres, comptabilité, garantie, autonomie, etc..
+4 - Description longue optimisée SEO-> Décris l'usage principal, les points différenciants, la fiabilité produit.
+Intègre le mot clé principal + quelques variantes sémantiques.
+5 - Preuves sociales et réassurance
+-> Note moyenne client, avis marquant, garanties, conditions de livraison ou de retour.
+-> Objectif: inspirer confiance sans exagérer.
+6 - FAQ SEO-Friendly (3 à 5 questins/réponses)
+-> Réponds à de vraies objections ou questions d'achat.
+-> Ton simple, réponses claires (2 à 4 lignes).
+7 - Call to action final
+->Phrase courte avec verbe d'action + bénéfice immédiat
+Ex: "Commandez maintenant - livraison 24h offerte"
+
+Bonus : 3 tirtres SEO alternatifs (60 caractères max)
+-> Incluant le mot-clé principal
+-> Informatifs, pas publicitaires
